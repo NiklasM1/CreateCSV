@@ -1,3 +1,3 @@
 CreateCSV
 
-Trennt die CSV Liste die auf Studip herruntergeladen werden kann auf in die Tutorien wobei ide Verantsalter und Teilnehmer keines Tutoriums irgnoriert werden.
+Trennt die CSV Liste die auf Studip heruntergeladen werden kann auf, in die Tutorien, wobei die Veranstalter und Teilnehmer keines Tutoriums ignoriert werden.
